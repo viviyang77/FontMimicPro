@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# FontMimicPro
 
-You can use the [editor on GitHub](https://github.com/viviyang77/FontMimicSite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+FontMimic Pro is a font previewing app, providing you the most creative fonts to mimic on paper! Yes, write something with such cute 
+fonts! You can also use this app to preview fonts for your designs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thanks for using FontMimic Pro, and happy writing!
 
-### Markdown
+[<img src="https://i.imgur.com/S86zDGX.png" width="200">](https://itunes.apple.com/app/id859754789)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Terms of Use
 
-- Bulleted
-- List
+> These Terms of Use affect your rights and obligations. If you do not agree to be bound by all of these Terms of Use, do not access or use the app.
+>
+> - You must not in any way access, use, copy, use or distribute the font files directly from the software bundle.
+>
+> - All fonts used in this app are collected from the web. The creator of this app is not responsible for any errors or damages of font files. If you find an error of the fonts, please contact the font creators.
+>
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viviyang77/FontMimicSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Copyright © 2014-2019 Vivi Yang. All rights reserved
